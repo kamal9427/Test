@@ -11,4 +11,8 @@ public class GITTest {
 		System.out.println("456");
 	}
 
+	private void method4() {
+		System.out.println("000");
+	}
+
 }
